@@ -1,0 +1,13 @@
+jquery
+bootstrap
+wit easing function
+
+
+ code ease and out function
+it is satistfying to viewers
+
+reduce loading time and fils
+folder must not be more that 20 mb
+data saving
+reduce php code
+code php later
